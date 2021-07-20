@@ -16,18 +16,16 @@ Velammal Institute of Technology
 
 Automatic Temperature measurement system based on ESP8266
 
-👀 My Profile Views :
+## :eyes: My Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/AvinashRG_008/count.svg" />
+
+## :loud_sound: GitHub Stats
+
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AvinashRG-008)](#)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashRG)
 
 
+<h2>:mailbox_with_mail: Wanna Connect:question:</h2>
 
-🔊 GitHub Stats
-
-GitHub Stats
-
-
-Top Languages Card
-
-
-📬 Wanna Connect❓
-
-avinashrg35gmail.com
+<a href="mailto:avinashrg35@gmail.com">![avinashrg35@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
