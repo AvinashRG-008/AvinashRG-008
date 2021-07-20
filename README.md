@@ -23,7 +23,7 @@ Automatic Temperature measurement system based on ESP8266
 
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AvinashRG-008)](#)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashRG)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashRG-008)
 
 
 <h2>:mailbox_with_mail: Wanna Connect:question:</h2>
