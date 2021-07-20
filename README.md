@@ -1,16 +1,33 @@
-### Hi there 👋
+💥 Hello, Fellas 💥
 
-<!--
-**AvinashRG-008/AvinashRG-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Avinash!
 
-Here are some ideas to get you started:
+Currently: B.E ECE Student @ Velammal Institute of Technology at Chennai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ I'm Currently Learning
+
+Velammal Institute of Technology 
+
+     - EC 8551 Communication Networks
+     - OIT 551 Database Management Systems 
+     - CS 8082 Machine Learning Techniques 
+     
+🔎 Currently Working On
+
+Automatic Temperature measurement system based on ESP8266
+
+👀 My Profile Views :
+
+
+
+🔊 GitHub Stats
+
+GitHub Stats
+
+
+Top Languages Card
+
+
+📬 Wanna Connect❓
+
+avinashrg35gmail.com
